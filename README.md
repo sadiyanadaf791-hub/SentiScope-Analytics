@@ -210,4 +210,3 @@ This project is developed for educational and internship purposes.
 - Provides an easy-to-understand analysis of sentiment in textual data.
 - Helps identify positive, negative, and neutral opinions from user feedback.
 - Uses machine learning and natural language processing for automated sentiment classification.
-- Provides visual insights that make sentiment trends easier to understand.
