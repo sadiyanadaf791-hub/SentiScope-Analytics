@@ -4,7 +4,7 @@
 
 SentiScope Analytics is a full-stack sentiment analysis platform designed to help businesses analyze customer feedback, reviews, and survey responses. The system uses Machine Learning and Natural Language Processing (NLP) techniques to classify sentiments and provide actionable business insights through interactive dashboards and analytics.
 
-
+---
 
 ## Features
 
