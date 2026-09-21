@@ -6,7 +6,6 @@ SentiScope Analytics is a full-stack sentiment analysis platform designed to hel
 
 ---
 
-## Features
 
 ### Authentication & Security
 
