@@ -2,7 +2,7 @@
 
 ## Customer Feedback Intelligence Platform
 
-SentiScope Analytics is a full-stack sentiment analysis platform designed to help businesses analyze  
+SentiScope Analytics is a full-stack sentiment analysis platform designed to help businesses analyze customer feedback, reviews, and survey responses. The system uses Machine Learning and Natural   
 
 
 
